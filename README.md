@@ -16,7 +16,6 @@
 - 🌱 Currently learning: **new technologies every day** <!-- TODO: edit -->
 - 🤝 Open to collaborate on: **open-source projects**
 - 💬 Ask me about: **programming, tools, ideas** <!-- TODO: edit -->
-- ⚡ Fun fact: **I debug with `print()` and I'm not ashamed** 😄
 
 ## 🛠️ Tech Stack
 
