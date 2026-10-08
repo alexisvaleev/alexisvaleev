@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Alexey;I+turn+coffee+into+code+%E2%98%95;Building+cool+things+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=alexisvaleev&label=Profile+views&color=a855f7&style=for-the-badge" alt="views" />
-  <a href="https://github.com/alexisvaleev?tab=followers"><img src="https://img.shields.io/github/followers/alexisvaleev?style=for-the-badge&logo=github&color=6366f1" alt="followers" /></a>
-</p>
-
 </div>
 
 ---
